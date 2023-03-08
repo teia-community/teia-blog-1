@@ -49,7 +49,7 @@ const linksData = [
     href: 'https://twitter.com/teiaart',
   },
   {
-    title: 'Teias Mastodon Server',
+    title: 'Teia Mastodon Server',
     description: `Mastodon instance run for and by the community. Open to everyone, NFT art posts encouraged! Mastodon is an open-sourced, decentralized social media software.`,
     imgSrc: '/static/images/mastodon-logo.svg',
     href: 'https://mastodon.teia.art/',
